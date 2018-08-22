@@ -9,7 +9,7 @@
 
 ## STMicroelectronics
 
-- [STM32F030F4P6](https://www.st.com/en/microcontrollers/stm32f030f4.html) [Datasheet](https://www.st.com/resource/en/datasheet/stm32f030f4.pdf
+- [STM32F030F4P6](https://www.st.com/en/microcontrollers/stm32f030f4.html) [Datasheet](https://www.st.com/resource/en/datasheet/stm32f030f4.pdf)
 - [STM32F103C8T6](https://www.st.com/en/microcontrollers/stm32f103c8.html) [Datasheet](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
 
 ## Microchip
