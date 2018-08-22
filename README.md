@@ -31,6 +31,5 @@
 - [ESP8266 ESP-12F](http://wiki.ai-thinker.com/esp8266) [Datasheet]()
 - [ESP8266 ESP-12S](http://wiki.ai-thinker.com/esp8266) [Datasheet]()
 - [ESP8266 ESP-WROOM-02](https://www.espressif.com/en/products/hardware/esp-wroom-02/overview) [Datasheet](https://www.espressif.com/sites/default/files/documentation/0c-esp-wroom-02_datasheet_en.pdf)
-
 - [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
 - [ESP32 ESP32-WROOM-32](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview) [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
