@@ -18,7 +18,7 @@
 - [PIC12F675](https://www.microchip.com/wwwproducts/en/PIC12F675) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf)
 - [PIC12F683](https://www.microchip.com/wwwproducts/en/PIC12F683) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41211D_.pdf)
 
-## TI
+## Texas Instruments
 
 - [MSP430G2553](http://www.ti.com/product/MSP430G2553) - [Datasheet](http://www.ti.com/lit/ds/symlink/msp430g2553.pdf)
 
