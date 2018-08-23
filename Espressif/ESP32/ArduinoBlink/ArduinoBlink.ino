@@ -1,7 +1,7 @@
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(4, OUTPUT);    // Pin #4 is NodeMCU-32S GPIO4
+  pinMode(4, OUTPUT);    // Pin #4 is NodeMCU-32S GPIO4 D4
 }
 
 // the loop function runs over and over again forever
