@@ -1,4 +1,4 @@
-# Microcontroller Blink
+# Microcontroller Blinky
 
 ## Atmel AVR
 
