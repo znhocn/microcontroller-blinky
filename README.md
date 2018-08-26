@@ -2,10 +2,14 @@
 
 ## Atmel AVR
 
+- [ATtiny13](https://www.microchip.com/wwwproducts/en/ATtiny13) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf)
+- [ATtiny24](https://www.microchip.com/wwwproducts/en/ATtiny24) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7701_Automotive-Microcontrollers-ATtiny24-44-84_Datasheet.pdf)
+- [ATtiny44](https://www.microchip.com/wwwproducts/en/ATtiny44) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7701_Automotive-Microcontrollers-ATtiny24-44-84_Datasheet.pdf)
 - [ATtiny85](https://www.microchip.com/wwwproducts/en/ATtiny85) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
 - [ATmega32U4](https://www.microchip.com/wwwproducts/en/ATmega32U4) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
 - [ATmega328P](https://www.microchip.com/wwwproducts/en/ATmega328P) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)
 - [ATmega2560](https://www.microchip.com/wwwproducts/en/ATmega2560) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)
+- [ATxmega32A4U](https://www.microchip.com/wwwproducts/en/ATxmega32A4U) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf)
 
 ## STMicroelectronics
 
