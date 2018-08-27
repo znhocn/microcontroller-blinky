@@ -28,6 +28,11 @@
 
 - [MSP430G2553](http://www.ti.com/product/MSP430G2553) - [Datasheet](http://www.ti.com/lit/ds/symlink/msp430g2553.pdf)
 
+## STC(晶宏)
+
+[STC15F204EA](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15F204EA-series-english.pdf)
+[STC15W408AS](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcudata.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf)
+
 ## Espressif Systems
 
 - [ESP8266EX](https://www.espressif.com/en/products/hardware/esp8266ex/overview) - [Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf)
