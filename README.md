@@ -11,6 +11,12 @@
 - [ATmega2560](https://www.microchip.com/wwwproducts/en/ATmega2560) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf)
 - [ATxmega32A4U](https://www.microchip.com/wwwproducts/en/ATxmega32A4U) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf)
 
+## Microchip
+
+- [PIC12F629](https://www.microchip.com/wwwproducts/en/PIC12F629) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf)
+- [PIC12F675](https://www.microchip.com/wwwproducts/en/PIC12F675) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf)
+- [PIC12F683](https://www.microchip.com/wwwproducts/en/PIC12F683) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41211D_.pdf)
+
 ## STMicroelectronics
 
 - [STM8S003F3P6](https://www.st.com/en/microcontrollers/stm8s003f3.html) - [Datasheet](https://www.st.com/resource/en/datasheet/stm8s003f3.pdf)
@@ -18,20 +24,14 @@
 - [STM32F030F4P6](https://www.st.com/en/microcontrollers/stm32f030f4.html) - [Datasheet](https://www.st.com/resource/en/datasheet/stm32f030f4.pdf)
 - [STM32F103C8T6](https://www.st.com/en/microcontrollers/stm32f103c8.html) - [Datasheet](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf)
 
-## Microchip
-
-- [PIC12F629](https://www.microchip.com/wwwproducts/en/PIC12F629) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf)
-- [PIC12F675](https://www.microchip.com/wwwproducts/en/PIC12F675) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf)
-- [PIC12F683](https://www.microchip.com/wwwproducts/en/PIC12F683) - [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/41211D_.pdf)
-
 ## Texas Instruments
 
 - [MSP430G2553](http://www.ti.com/product/MSP430G2553) - [Datasheet](http://www.ti.com/lit/ds/symlink/msp430g2553.pdf)
 
 ## STC(晶宏)
 
-[STC15F204EA](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15F204EA-series-english.pdf)
-[STC15W408AS](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcudata.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf)
+- [STC15F204EA](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15F204EA-series-english.pdf)
+- [STC15W408AS](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcudata.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf)
 
 ## Espressif Systems
 
