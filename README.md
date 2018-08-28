@@ -30,7 +30,10 @@
 
 ## STC(晶宏)
 
+- [STC89C52RC](http://www.stcmcu.com/) - [Datasheet]()
+- [STC15F104W](http://www.stcmcu.com/) - [Datasheet]()
 - [STC15F204EA](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15F204EA-series-english.pdf)
+- [STC15W204S](http://www.stcmcu.com/) - [Datasheet]()
 - [STC15W408AS](http://www.stcmcu.com/) - [Datasheet](http://www.stcmcudata.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf)
 
 ## Espressif Systems
